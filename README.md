@@ -1,7 +1,7 @@
 # hello-world
 1st repository on Github (fingers crossed for the future)
 
-Hi Guys and Gals,
+Hi Everyone,
 
 I am Ahsan aka Mana. This is my first github repository. I shall start various projects related to Data Science in R and Python in the near future. Moreover, I am about to immerse myself in to the field of Machine Learning.
 
